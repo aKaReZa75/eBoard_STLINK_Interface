@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+E:\aKaReZa\#gitHub\eBoard_STLINK_Interface\Interface\Project Outputs for Interface\Generates pick and place files\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/08/25
+Time:       21:16
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P4","STLINK V2","TopLayer","IDC2.54-10PIN","34.2900","20.1530","270","STLINK-V2 debugger/programmer IDC probe for STM32 microcontrollers"
+"MP4","M3","TopLayer","SCREW-M3","36.1950","56.3880","0","Board Screw With Spacer"
+"MP3","M3","TopLayer","SCREW-M3","3.8100","56.3880","0","Board Screw With Spacer"
+"MP2","M3","TopLayer","SCREW-M3","36.1950","3.8100","0","Board Screw With Spacer"
+"MP1","M3","TopLayer","SCREW-M3","3.8100","3.8100","0","Board Screw With Spacer"
+"J2","9","TopLayer","HDR_THT_9M_2.54mm","19.9390","57.5310","0","Header, single row, 9 pin"
+"U2","AMS1117-3V3","BottomLayer","SOT223_M","22.9870","19.9390","180","1'A Positive voltage regulator"
+"U1","CH340N","BottomLayer","SO8_narrow_m","14.9860","14.0970","90","TTL To USB Chip"
+"R6","1K","BottomLayer","RES_0805_(2012X06L)","10.9220","21.8050","90","Resistor"
+"R5","220b","TopLayer","RES_0805_(2012X06L)","19.9584","18.7320","90","Resistor"
+"R4","4.7K","BottomLayer","RES_0805_(2012X06L)","14.0580","3.8100","0","Resistor"
+"R3","560b","BottomLayer","RES_0805_(2012X06L)","14.7858","21.7560","270","Resistor"
+"R2","4.7K","BottomLayer","RES_0805_(2012X06L)","14.0580","5.5880","0","Resistor"
+"R1","560b","BottomLayer","RES_0805_(2012X06L)","12.8539","21.7560","270","Resistor"
+"P7","STLinkV2","TopLayer","IDC2.54-10PIN","34.2900","41.4890","270","STLINK-V2 debugger/programmer IDC probe for STM32 microcontrollers"
+"P6","STM8","TopLayer","MOLEX_KK_0022272041","20.0660","43.4068","0","STM8 Programmer Connector"
+"P5","BluePill","TopLayer","MOLEX_KK_0022272041","3.9370","13.5890","90","Serial Wire 4'pin"
+"P3","UART","TopLayer","MOLEX_KK_0022272041","3.9370","25.2730","90","UART Connector"
+"P2","JTAG-20P","TopLayer","BOX-HDR-10X2-2.54mm-S","19.9390","65.0240","0","10 Pin aKaReZa JTAG Programmer"
+"P1","STLinkV3-minie","TopLayer","IDC2.54-10PIN","5.2070","41.5290","90","STLINK-V3MINIE debugger/programmer IDC probe for STM32 microcontrollers"
+"JP6","2'Pin","TopLayer","Jumper_Small_-_2.54_-_GRAY","12.7000","28.5750","180","Jumper"
+"JP5","2'Pin","TopLayer","Jumper_Small_-_2.54_-_GRAY","12.7000","25.6540","180","Jumper"
+"JP1","0b","TopLayer","jumper_selector","20.0660","33.4010","90","Jumper Selector"
+"J1","16b","TopLayer","USBC_SMD_16_USB4110_-_Extended","20.0152","5.4425","180","USB C Female Connector"
+"F1","0.25A","BottomLayer","1206_F","28.7020","13.2080","90","Short circiut  protection"
+"D1","Green","TopLayer","LED_0805/2012_GREEN","19.9390","23.2410","270","LED"
+"C5","10n","BottomLayer","CAP_0805/2012","16.7640","21.6916","90","Bipolar ceramic capacitor SMD"
+"C4","DS1307","BottomLayer","CAP_0805/2012","19.3040","13.6144","270","Bipolar ceramic capacitor SMD"
+"C3","100n","BottomLayer","CAP_0805/2012","23.8506","28.7020","0","Bipolar ceramic capacitor SMD"
+"C2","10u","BottomLayer","SMT_C_Tantalum_B","24.3630","25.9080","0","Tantalum Capacitor,TAJ Series-SMD"
+"C1","10u","BottomLayer","SMT_C_Tantalum_B","22.2250","13.3350","270","Tantalum Capacitor,TAJ Series-SMD"
