@@ -5,6 +5,44 @@ This board is perfect for embedded developers who frequently switch between diff
 
 ![Stlink Interface](Images/StlinkInterface.png)
 
+### Port Connection Details:
+Here is a breakdown of where to connect your devices:
+
+**JTAG-20P Port**
+* **Purpose:** A standard 20-pin ARM JTAG/SWD header compliant with ARM Cortex Debug Connector specification.
+* **Supported Programmers/Debuggers:**
+  * **ULINK** series (ULINK2, ULINKplus, ULINKpro)
+  * **J-LINK** (Segger J-Link Base, EDU, Pro, Mini)
+  * **ST-LINK** (V2/V3 via JTAG/SWD adapter cables)
+  * Other ARM-compliant programmers and debug probes.
+
+**ST-LINK V3 Port**
+* This header is used to connect **ST-LINK V3 minie** programmers, including official STMicroelectronics models.
+* Supports SWD (Serial Wire Debug) and SWO signals for debugging STM32 microcontrollers.
+
+**ST-LINK V2 Port**
+* Dedicated port for **ST-LINK V2** programmers (official or clone).
+* Pinout is standardized to make connections easy without rewiring.
+
+**CheapPRG Port**
+* Universal pinout compatible with low-cost ST-LINK clone programmers.
+
+**USB-to-TTL Interface**
+* Integrated USB-to-TTL converter for UART communication with the target MCU.
+* Can be used for serial debugging, bootloader programming, or logging.
+* Supports **TXD** and **RXD** lines with selectable voltage levels (3.3 V via onboard regulator).
+
+**STM8 Port**
+* Special header for programming and debugging **STM8** series microcontrollers via SWIM (Single Wire Interface Module).
+
+**UART Connectors (UART / BLUEPILL)**
+* Additional UART headers to connect directly to development boards such as the STM32 Blue Pill.
+* Useful for serial communication during development.
+
+**Power Regulation (REG 3V3)**
+* Onboard regulator provides a stable **3.3 V** supply for the connected devices.
+* Can be used to power target boards directly from the interface.
+
 <table>
   <tr>
   <td valign="top">
