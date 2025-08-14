@@ -74,7 +74,6 @@ Here is a breakdown of where to connect your devices:
   </tr>  
 </table>
 
-
 # 🔗 Resources
   Here you'll find a collection of useful links and videos related to the topic of AVR microcontrollers.  
   
