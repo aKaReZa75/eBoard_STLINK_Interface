@@ -4,9 +4,9 @@ E:\aKaReZa\#gitHub\eBoard_STLINK_Interface\Interface\Project Outputs for Interfa
 ========================================================================================================================
 File Design Information:
 
-Date:       13/08/25
-Time:       21:16
-Revision:   Not in VersionControl
+Date:       20/08/25
+Time:       07:24
+Revision:   9e243d5ffb5605f0452ba5c338dd18d3af8ca5ab
 Variant:    No variations
 Units used: mm
 
@@ -29,7 +29,7 @@ P7         STLinkV2       TopLayer    IDC2.54-10PIN                  34.2900    
 P6         STM8           TopLayer    MOLEX_KK_0022272041            20.0660      43.4068      0        "STM8 Programmer Connector"                                               
 P5         BluePill       TopLayer    MOLEX_KK_0022272041            3.9370       13.5890      90       "Serial Wire 4'pin"                                                       
 P3         UART           TopLayer    MOLEX_KK_0022272041            3.9370       25.2730      90       "UART Connector"                                                          
-P2         JTAG-20P       TopLayer    BOX-HDR-10X2-2.54mm-S          19.9390      65.0240      0        "10 Pin aKaReZa JTAG Programmer"                                          
+P2         JTAG-20P       TopLayer    BOX-HDR-10X2-2.54mm-S          19.9390      65.0240      0        "20 Pin Standard JTAG Header For ARM JLINK"                               
 P1         STLinkV3-minie TopLayer    IDC2.54-10PIN                  5.2070       41.5290      90       "STLINK-V3MINIE debugger/programmer IDC probe for STM32 microcontrollers" 
 JP6        2'Pin          TopLayer    Jumper_Small_-_2.54_-_GRAY     12.7000      28.5750      180      Jumper                                                                    
 JP5        2'Pin          TopLayer    Jumper_Small_-_2.54_-_GRAY     12.7000      25.6540      180      Jumper                                                                    

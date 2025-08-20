@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -218,16 +218,20 @@ DocumentPath=Project Outputs for Interface\Generates pick and place files\Pick P
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CompanyName
-Value=github.com/aKaReZa75
+Name=
+Value=
 
 [Parameter2]
+Name=Revision
+Value=1.1
+
+[Parameter3]
 Name=Project_Name
 Value=STLINK Interface
 
-[Parameter3]
-Name=Revision
-Value=1.0
+[Parameter4]
+Name=CompanyName
+Value=github.com/aKaReZa75
 
 [Configuration1]
 Name=Sources

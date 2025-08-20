@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB.PcbDoc   8/13/2025  9:16:51 PM
+NCDrill File Report For: PCB.PcbDoc   8/20/2025  7:24:19 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : PCB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.4mm (16mil)                                             Round             8         PTH        58.14mm (2.29inch)
+T1      0.4mm (16mil)                                             Round             9         PTH        94.08mm (3.70inch)
 T2      0.711mm (28mil)                                           Round             10        PTH        34.82mm (1.37inch)
 T3      1mm (39mil)                                               Round             4         PTH        8.00mm (0.31inch)
 T4      1.1mm (43mil)                                             Round             62        PTH        289.87mm (11.41inch)
@@ -16,6 +16,6 @@ T5      1.2mm (47mil)                                             Round         
 T6      3.2mm (126mil)                                            Slot              4         PTH        246.36mm (9.70inch)
 T7      0.7mm (28mil)                                             Round             2         NPTH       5.78mm (0.23inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              102
+Totals                                                                              103
 
 Total Processing Time (hh:mm:ss) : 00:00:00
