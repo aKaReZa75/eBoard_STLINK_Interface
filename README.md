@@ -93,8 +93,37 @@ Here is a breakdown of where to connect your devices:
   ---  
   This repository offers a comprehensive guide to learning **various microcontrollers** and how to interface them with different shields. You’ll find tutorials on **using and configuring shields**, along with hands-on projects to help you **get your microcontrollers up and running**. Whether you're working with **Arduino, STM32, ESP32**, or others, this resource will help you understand how to integrate these platforms effectively for your projects.
 
-> [!CAUTION]
-> This tutorial has not yet **started!**
+## Project Videos
+
+```plaintext
+📁 eBoard Designs
+└── [aKaReZa 123 - STLink Interface]
+      ├─ Schematic — Designing a custom ST-Link board.
+      ├─ Soldering — Techniques for SMD and THT components.
+      ├─ Debuggers — ST-Link, J-Link, ULink setup in Keil.
+      ├─ UART — USB-to-TTL converter usage.
+      └─ Comparison — Debugger features and practical tips.
+```
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/K9i31Nqotro">aKaReZa 123 – eBoard, STLink Interface</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Get a complete guide to designing and assembling an ST-Link interface board. This episode covers schematic creation, SMD/THT soldering, Keil IDE configuration for ST-Link, J-Link, and ULink debuggers, plus UART communication using a USB-to-TTL converter—perfect for building and debugging STM32 projects with professional-grade tools.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/K9i31Nqotro">
+        <img src="https://img.youtube.com/vi/K9i31Nqotro/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 123 – eBoard, STLink Interface Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 # 💻 How to Use Git and GitHub
