@@ -83,7 +83,6 @@ Here is a breakdown of where to connect your devices:
   </td>
 </tr>
 
-  
   <tr>
   <td colspan="3">
 
